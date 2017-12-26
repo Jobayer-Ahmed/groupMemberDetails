@@ -1,37 +1,40 @@
-{
-	"Admin": {
-		"name": "Tahy Aamir",
-		"github": "https://github.com/entrptaher",
-		"freeCodeCamp": "https://freecodecamp.org/entrptaher",
-		"10fastfingers": "https://freecodecamp.org/entrptaher",
-		"portfolio": "Unknown"
-	},
-	"Member": {
-		"name": "Naimur Rahman",
-		"github": "https://github.com/nsourov",
-		"freeCodeCamp": "https://freecodecamp.org/nsourov",
-		"10fastfingers": "https://10fastfingers.com/nsourov",
-		"portfolio": "http://naimur.me/"
-	},
-	"Member": {
-		"name": "Jobayer Ahmed Mickey",
-		"github": "https://github.com/Jobayer-Ahmed",
-		"freeCodeCamp": "https://freecodecamp.org/jobayerahmedmickey",
-		"10fastfingers": "https://10fastfingers.com/jobayerahmedmickey",
-		"portfolio": "http://immickey.me/"
-	},
-	"Member": {
-		"name": "Prianka Roy (Sithi)",
-		"github": "https://github.com/priankaroy",
-		"freeCodeCamp": "https://freecodecamp.org/priankaroy",
-		"10fastfingers": "https://10fastfingers.com/priankaroy",
-		"portfolio": "Unknown"
-	},
-	"Member": {
-		"name": "Sabrina Niha",
-		"github": "https://github.com/nsibrina",
-		"freeCodeCamp": "https://freecodecamp.org/nsibrina",
-		"10fastfingers": "https://10fastfingers.com/nsibrina",
-		"portfolio": "http://nsibrina.me"
-	}
-}
+[
+  {
+    "role": "Admin",
+    "name": "Tahy Aamir",
+    "github": "https://github.com/entrptaher",
+    "freeCodeCamp": "https://freecodecamp.org/entrptaher",
+    "10fastfingers": "https://10fastfingers.com/user/1084596/"
+  },
+  {
+    "role": "Member",
+    "name": "Naimur Rahman",
+    "github": "https://github.com/nsourov",
+    "freeCodeCamp": "https://freecodecamp.org/nsourov",
+    "10fastfingers": "https://10fastfingers.com/user/1328409/",
+    "portfolio": "http://naimur.me/"
+  },
+  {
+    "role": "Member",
+    "name": "Jobayer Ahmed Mickey",
+    "github": "https://github.com/Jobayer-Ahmed",
+    "freeCodeCamp": "https://freecodecamp.org/jobayerahmedmickey",
+    "10fastfingers": "https://10fastfingers.com/jobayerahmedmickey",
+    "portfolio": "http://immickey.me/"
+  },
+  {
+    "role": "Member",
+    "name": "Prianka Roy (Sithi)",
+    "github": "https://github.com/priankaroy",
+    "freeCodeCamp": "https://freecodecamp.org/priankaroy",
+    "10fastfingers": "https://10fastfingers.com/user/1375714/"
+  },
+  {
+    "role": "Member",
+    "name": "Sabrina Niha",
+    "github": "https://github.com/nsibrina",
+    "freeCodeCamp": "https://freecodecamp.org/nsibrina",
+    "10fastfingers": "https://10fastfingers.com/nsibrina",
+    "portfolio": "http://nsibrina.me"
+  }
+]
